@@ -1,5 +1,5 @@
 **NHÓM 2 LỚP CS114.M21**
-
+Google Collab : https://colab.research.google.com/drive/19JN5jRbGOBRtQSPwfWNPLLpDqzOsMmR5?usp=sharing
 Thành viên nhóm <br> 
 ![image](https://user-images.githubusercontent.com/77335278/161459897-342efe01-4d1f-41e4-990d-212558f61c46.png) <br>
 Họ và tên: Đậu Văn Nam (Nhóm trưởng) <br>
