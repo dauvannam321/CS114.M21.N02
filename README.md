@@ -18,3 +18,5 @@ Lớp: KHMT2020 <br>
 Họ và tên: Nguyễn Hoàng Gia <br>
 MSSV: 20520478 <br>
 Lớp: KHMT2020 <br>
+Install Tool Crawl Data : Chat Downloader https://github.com/xenova/chat-downloader
+
