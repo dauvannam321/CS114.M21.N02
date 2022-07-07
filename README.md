@@ -1,8 +1,5 @@
 **NHÓM 2 LỚP CS114.M21** <br>
 Toxic Comment Detection On Live Stream Football YouTube: 
-<a href="https://colab.research.google.com/github/goldenspring6622/CS114.M21.N02/blob/main/Toxic%20Comment%20Detection.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
 <br>Thành viên nhóm <br> 
 ![image](https://user-images.githubusercontent.com/77335278/161459897-342efe01-4d1f-41e4-990d-212558f61c46.png) <br>
 Họ và tên: Đậu Văn Nam (Nhóm trưởng) <br>
