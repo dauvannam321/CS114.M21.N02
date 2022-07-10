@@ -32,4 +32,4 @@ chat-downloader : https://github.com/xenova/chat-downloader<br>
 <br>Upload file lên 
 <br>![image](https://user-images.githubusercontent.com/79317931/178136380-d1e3aa4c-dbe7-4f7f-8f71-b7b779457602.png)<br>
 <br>Chạy trên file notebook Toxic_Comment_Detection_On_Youtube_Football_Livestream.ipynb trên Google Colab và chờ đợi kết quả<br>
-<br>![image](https://user-images.githubusercontent.com/79317931/178136399-3677f425-dd3a-4811-8a40-23bca7ed207f.png)<br>
+<br>![image](https://user-images.githubusercontent.com/79317931/178136622-c79316e0-2128-4669-af5f-96cdbed3c866.png)<br>
