@@ -1,6 +1,6 @@
-**NHÓM 2 LỚP CS114.M21**
-
-Thành viên nhóm <br> 
+**NHÓM 2 LỚP CS114.M21** <br>
+Toxic Comment Detection On Live Stream Football YouTube: 
+<br>Thành viên nhóm <br> 
 ![image](https://user-images.githubusercontent.com/77335278/161459897-342efe01-4d1f-41e4-990d-212558f61c46.png) <br>
 Họ và tên: Đậu Văn Nam (Nhóm trưởng) <br>
 MSSV: 20521626 <br>
@@ -15,3 +15,4 @@ Lớp: KHMT2020 <br>
 Họ và tên: Nguyễn Hoàng Gia <br>
 MSSV: 20520478 <br>
 Lớp: KHMT2020 <br>
+Demo Crawling Data On Youtube Football Live : https://drive.google.com/file/d/1Bo0idsOObKFyzuP1k8aSiTNEZssYrLSo/view?usp=sharing
