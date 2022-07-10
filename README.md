@@ -16,3 +16,12 @@ Họ và tên: Nguyễn Hoàng Gia <br>
 MSSV: 20520478 <br>
 Lớp: KHMT2020 <br>
 Demo Crawling Data On Youtube Football Live : https://drive.google.com/file/d/1Bo0idsOObKFyzuP1k8aSiTNEZssYrLSo/view?usp=sharing
+Download PyCharm : https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
+chat-downloader : https://github.com/xenova/chat-downloader
+Cài đặt thư viện chat-downloader 
+```
+   $ pip install chat-downloader
+```
+Chạy file Live_Chat_Crawler_On_Youtube_Live.py, thay đổi link và thời gian để có thể thu thập data vào những thời điểm cao trào, đưa vào file dataset dạng .xlsx
+Lấy data vừa thu thập gán nhãn, chạy trên file notebook Toxic_Comment_Detection_On_Youtube_Football_Livestream.ipynb trên Google Colab
+Upload file lên và húp !!!
